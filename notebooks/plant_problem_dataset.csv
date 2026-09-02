@@ -1,0 +1,526 @@
+description,problem
+The leaves are turning yellow and the soil is very wet,overwatering
+My plant looks weak and the soil stays wet for many days,overwatering
+Leaves are falling and the soil is soggy,overwatering
+I water my plant every day and now the leaves are yellow,overwatering
+The plant is drooping even though I water it regularly,overwatering
+The potting soil remains wet for a long time,overwatering
+My plant looks unhealthy because I give it too much water,overwatering
+The soil is always soggy,overwatering
+Yellow leaves are falling from my plant,overwatering
+I think I have watered my plant too much,overwatering
+My plant is drooping but the soil is already wet,overwatering
+The leaves are soft and yellow,overwatering
+Water stays in the pot for too long,overwatering
+I keep watering but the plant looks worse,overwatering
+The soil never seems to dry,overwatering
+My plant has yellow leaves and wet soil,overwatering
+I may be watering the plant too frequently,overwatering
+The plant looks weak and the soil is constantly moist,overwatering
+Leaves are becoming yellow after frequent watering,overwatering
+My plant is wilting even though the soil is wet,overwatering
+The pot feels heavy because the soil is full of water,overwatering
+I accidentally watered the plant several times this week,overwatering
+The lower leaves are yellow and dropping,overwatering
+My plant looks unhealthy after excessive watering,overwatering
+The soil feels wet every time I check it,overwatering
+Why are my leaves yellow when I water regularly,overwatering
+Plant soil is soggy all the time,overwatering
+I think the plant is getting too much water,overwatering
+The leaves are drooping and the soil is soaking wet,overwatering
+My plant has been sitting in wet soil for days,overwatering
+I water the plant too often,overwatering
+The soil has not dried since the last watering,overwatering
+My plant looks limp even though it has plenty of water,overwatering
+There is always moisture in the pot,overwatering
+The plant became yellow after I increased watering,overwatering
+The soil is very dry and the leaves are drooping,underwatering
+My plant looks dry and weak,underwatering
+The leaves are crispy and dry,underwatering
+I forgot to water my plant for many days,underwatering
+The soil is completely dry,underwatering
+The plant is wilting because it has not received water,underwatering
+The leaves are dry and falling off,underwatering
+My plant looks thirsty,underwatering
+The soil dries out very quickly,underwatering
+The leaves are turning brown and crispy,underwatering
+I have not watered my plant for a week,underwatering
+My plant is drooping and the soil is dry,underwatering
+The leaves feel dry and brittle,underwatering
+The plant looks weak because I forgot to water it,underwatering
+The soil has become extremely dry,underwatering
+My plant is wilting from lack of water,underwatering
+The leaves are curling and dry,underwatering
+I think my plant needs more water,underwatering
+The plant looks dehydrated,underwatering
+The leaves are becoming dry at the edges,underwatering
+The potting soil is dry all the way through,underwatering
+I rarely water this plant,underwatering
+The plant becomes droopy when I forget watering,underwatering
+The leaves look shriveled and dry,underwatering
+My plant has not been watered recently,underwatering
+The soil is dusty and dry,underwatering
+The leaves are hanging down because the plant is dry,underwatering
+My plant looks better after I water it,underwatering
+I forgot to water it for several days,underwatering
+The plant is drying out,underwatering
+Leaves are crispy because the soil is dry,underwatering
+My plant is wilting and the pot is very dry,underwatering
+The soil has no moisture,underwatering
+I think the plant is not getting enough water,underwatering
+The leaves are dry and the plant looks thirsty,underwatering
+My plant is growing slowly in a dark room,low_light
+The plant does not receive much sunlight,low_light
+The leaves are becoming pale because the room is dark,low_light
+My plant is not growing well indoors,low_light
+The plant is kept far from the window,low_light
+There is very little natural light in my room,low_light
+The plant looks weak because it does not get enough light,low_light
+My plant is stretching toward the window,low_light
+The stems are becoming long and weak,low_light
+The plant is growing slowly because the area is too dark,low_light
+My room does not get much sunlight,low_light
+The plant is kept in a shaded corner,low_light
+The leaves look pale and the plant is growing slowly,low_light
+My plant does not receive enough sunlight,low_light
+The plant is leaning toward the light source,low_light
+The stems are thin and stretched,low_light
+The plant has become leggy indoors,low_light
+Growth is very slow in this dark location,low_light
+My plant is far away from any window,low_light
+The leaves are losing their healthy color,low_light
+The plant is not getting sufficient light,low_light
+The room remains dark during most of the day,low_light
+My plant is growing toward the window,low_light
+The plant looks stretched because of low light,low_light
+There is no direct or bright light where I keep it,low_light
+The plant growth has slowed in a dark area,low_light
+My plant is kept in a place with very little light,low_light
+The leaves are pale and growth is weak,low_light
+The plant is not receiving enough daylight,low_light
+My indoor plant is struggling because the room is too dark,low_light
+The stems are long because it is searching for light,low_light
+The plant has weak growth in low light,low_light
+My plant needs a brighter location,low_light
+There is not enough sunlight in this room,low_light
+The plant looks weak in the dark corner,low_light
+The leaves are yellow even though I water properly,nutrient_deficiency
+My plant is growing very slowly despite good care,nutrient_deficiency
+The leaves look pale and weak,nutrient_deficiency
+The plant may not be getting enough nutrients,nutrient_deficiency
+Older leaves are turning yellow,nutrient_deficiency
+New growth is small and weak,nutrient_deficiency
+The leaves have yellow areas between the veins,nutrient_deficiency
+My plant has poor growth despite proper watering,nutrient_deficiency
+The soil may not have enough nutrients,nutrient_deficiency
+The plant looks pale and unhealthy,nutrient_deficiency
+The leaves are losing their green color,nutrient_deficiency
+Growth has slowed even though light and water seem fine,nutrient_deficiency
+The plant has small new leaves,nutrient_deficiency
+The leaves are pale green,nutrient_deficiency
+My plant may need fertilizer,nutrient_deficiency
+The plant looks weak even with proper watering,nutrient_deficiency
+Yellowing is happening without overwatering,nutrient_deficiency
+The leaves have unusual discoloration,nutrient_deficiency
+My plant has stopped growing well,nutrient_deficiency
+The plant seems to lack nutrients,nutrient_deficiency
+The leaves are yellow but the soil conditions are normal,nutrient_deficiency
+Growth is poor and leaves look pale,nutrient_deficiency
+My plant has weak new growth,nutrient_deficiency
+The leaves are not a healthy green color,nutrient_deficiency
+The plant has been in the same soil for a long time,nutrient_deficiency
+I have not fertilized the plant for months,nutrient_deficiency
+The leaves look pale despite receiving enough light,nutrient_deficiency
+The plant is growing slowly and looks nutrient deficient,nutrient_deficiency
+New leaves are smaller than usual,nutrient_deficiency
+The plant looks unhealthy without any obvious pest problem,nutrient_deficiency
+There are yellow patches on otherwise healthy leaves,nutrient_deficiency
+My plant might need more nutrients,nutrient_deficiency
+The growth is weak and leaves are pale,nutrient_deficiency
+The soil may be exhausted,nutrient_deficiency
+The plant has poor growth and yellow leaves,nutrient_deficiency
+There are tiny insects on my plant,pest_problem
+I can see bugs underneath the leaves,pest_problem
+The leaves have small holes,pest_problem
+There are tiny insects moving on the stems,pest_problem
+Something is eating my plant leaves,pest_problem
+I found small bugs on the plant,pest_problem
+The leaves are damaged by insects,pest_problem
+There are insects hiding under the leaves,pest_problem
+My plant has sticky leaves and tiny bugs,pest_problem
+I can see web like material on the plant,pest_problem
+The leaves have been chewed,pest_problem
+There are white insects on my plant,pest_problem
+Small black bugs are on the leaves,pest_problem
+The plant has tiny pests,pest_problem
+I see insects crawling around the stems,pest_problem
+There are small insects in groups on the leaves,pest_problem
+The leaves have bite marks,pest_problem
+My plant has a pest infestation,pest_problem
+There are tiny creatures on the underside of the leaves,pest_problem
+The plant leaves are damaged and I can see insects,pest_problem
+I found bugs near the new growth,pest_problem
+The leaves have unusual holes,pest_problem
+Something is damaging the leaves,pest_problem
+There are tiny white bugs on the plant,pest_problem
+The plant has sticky residue and insects,pest_problem
+I can see small pests moving,pest_problem
+The leaves are being eaten,pest_problem
+There are bugs around the stems,pest_problem
+My plant seems to have insects,pest_problem
+Tiny insects are covering parts of the plant,pest_problem
+I noticed pests on the leaves,pest_problem
+The plant has webbing and tiny insects,pest_problem
+There are small bugs hiding in the leaf joints,pest_problem
+The leaves are damaged by pests,pest_problem
+I think insects are attacking my plant,pest_problem
+Brown spots are spreading across the leaves,fungal_disease
+There are dark spots on the leaves,fungal_disease
+The plant has unusual patches that are spreading,fungal_disease
+The leaves have black spots,fungal_disease
+White powder is appearing on the leaves,fungal_disease
+There are fungal looking spots on my plant,fungal_disease
+The spots on the leaves are getting bigger,fungal_disease
+The plant has circular brown patches,fungal_disease
+There is powdery growth on the leaves,fungal_disease
+Dark patches are spreading across the foliage,fungal_disease
+The leaves have unusual fungal marks,fungal_disease
+Brown spots keep appearing on new leaves,fungal_disease
+There is white powder on the plant,fungal_disease
+The leaf spots are spreading quickly,fungal_disease
+The plant has black and brown patches,fungal_disease
+There is mold like growth on the leaves,fungal_disease
+The leaves have strange dark marks,fungal_disease
+The spots look like a disease,fungal_disease
+My plant has patches that continue spreading,fungal_disease
+The leaves have powdery white material,fungal_disease
+There are brown lesions on the foliage,fungal_disease
+Dark spots appeared after humid weather,fungal_disease
+The plant leaves have a disease like pattern,fungal_disease
+Spots are spreading from one leaf to another,fungal_disease
+There is fuzzy growth on the leaves,fungal_disease
+The leaves have dark circular spots,fungal_disease
+I think my plant has a fungal infection,fungal_disease
+Brown patches are increasing on the plant,fungal_disease
+The leaves have unusual spots and discoloration,fungal_disease
+White powder keeps appearing on the leaves,fungal_disease
+There are spreading brown marks on the foliage,fungal_disease
+The plant has black spots that are getting worse,fungal_disease
+The leaves have a possible fungal disease,fungal_disease
+The patches on the plant are spreading,fungal_disease
+My plant has dark spots and powdery growth,fungal_disease
+My plant became weak after being exposed to cold weather,temperature_stress
+The leaves were damaged after a sudden temperature change,temperature_stress
+The plant is suffering because the room is too hot,temperature_stress
+Cold air from the window is affecting my plant,temperature_stress
+The plant was exposed to extreme heat,temperature_stress
+The leaves became damaged after a cold night,temperature_stress
+My plant is close to a heater,temperature_stress
+The plant is near an air conditioner,temperature_stress
+The temperature around the plant changes frequently,temperature_stress
+My plant looks stressed during very hot weather,temperature_stress
+The leaves were damaged after frost,temperature_stress
+The plant is exposed to cold drafts,temperature_stress
+Extreme heat is making the leaves wilt,temperature_stress
+The plant became weak after being moved outside in cold weather,temperature_stress
+The room temperature is too low for my plant,temperature_stress
+My plant is suffering during a heatwave,temperature_stress
+The leaves look damaged after extreme temperatures,temperature_stress
+The plant is close to a source of hot air,temperature_stress
+Cold weather caused the leaves to droop,temperature_stress
+The plant is affected by very high temperatures,temperature_stress
+My plant does not tolerate the cold,temperature_stress
+The temperature dropped suddenly and the plant looks weak,temperature_stress
+The plant is stressed because of heat,temperature_stress
+My plant is near a cold window,temperature_stress
+The leaves started wilting during extreme heat,temperature_stress
+The plant was exposed to freezing conditions,temperature_stress
+The temperature in the room changes too much,temperature_stress
+Hot weather is stressing my plant,temperature_stress
+The plant looks damaged after a sudden cold spell,temperature_stress
+My plant is affected by a very hot environment,temperature_stress
+The plant is exposed to cold air regularly,temperature_stress
+Extreme temperatures are affecting the plant,temperature_stress
+The leaves became weak after temperature changes,temperature_stress
+My plant may be stressed by heat or cold,temperature_stress
+The plant is not in a suitable temperature range,temperature_stress
+My plant looks healthy and is growing well,healthy
+The leaves are green and healthy,healthy
+My plant is doing very well,healthy
+There are no visible problems with my plant,healthy
+The plant is growing normally,healthy
+My plant looks fresh and healthy,healthy
+The leaves look green and strong,healthy
+Everything seems fine with my plant,healthy
+The plant is growing new leaves normally,healthy
+My plant looks completely healthy,healthy
+There are no spots or insects on the leaves,healthy
+The plant has healthy green foliage,healthy
+My plant is growing well with no problems,healthy
+The leaves look normal,healthy
+The plant is doing great,healthy
+My plant looks strong and healthy,healthy
+New growth is appearing normally,healthy
+The plant has no visible damage,healthy
+Everything looks normal with my plant,healthy
+My plant is healthy,healthy
+The leaves are green and there are no problems,healthy
+The plant is growing steadily,healthy
+My plant looks good and healthy,healthy
+There are no signs of disease,healthy
+The plant has normal healthy growth,healthy
+My plant is doing fine,healthy
+The leaves look fresh and green,healthy
+The plant seems perfectly healthy,healthy
+There are no unusual symptoms,healthy
+My plant has healthy new growth,healthy
+The plant looks normal,healthy
+Everything is okay with my plant,healthy
+My plant is growing properly,healthy
+The leaves are healthy and green,healthy
+No major problem is visible,healthy
+The roots are brown and mushy,root_rot
+My plant is wilting even though the soil is wet and the roots look damaged,root_rot
+There is a bad smell coming from the soil and the roots are soft,root_rot
+The roots look black and unhealthy,root_rot
+My plant has mushy roots,root_rot
+The roots are rotting in the wet soil,root_rot
+I removed the plant and found dark soft roots,root_rot
+The plant is wilting despite having plenty of water and damaged roots,root_rot
+The roots are brown and falling apart,root_rot
+There is a rotten smell coming from the root area,root_rot
+My plant has soft black roots,root_rot
+The roots are unhealthy and mushy,root_rot
+The plant has root damage from staying wet too long,root_rot
+I think the roots are rotting,root_rot
+The roots are dark and soft instead of firm,root_rot
+The plant is weak and the roots look rotten,root_rot
+There is a foul smell from the potting soil,root_rot
+The roots have become brown and slimy,root_rot
+My plant is declining and the roots are damaged,root_rot
+The root system looks unhealthy,root_rot
+The roots are turning black and mushy,root_rot
+The plant is wilting while the roots remain wet and damaged,root_rot
+I can see rotting roots when I remove the plant from the pot,root_rot
+The roots are soft and decomposing,root_rot
+There is a bad odor near the roots,root_rot
+My plant has unhealthy roots that are falling apart,root_rot
+The root area looks rotten,root_rot
+The roots have become dark because of excess moisture,root_rot
+The plant is weak and the root system is damaged,root_rot
+I found mushy brown roots in the pot,root_rot
+The roots smell bad and look unhealthy,root_rot
+My plant may have root rot,root_rot
+The roots are black instead of white and firm,root_rot
+The plant is wilting because its roots are rotting,root_rot
+I found soft rotten roots after checking the plant,root_rot
+My plant has brown scorched patches after direct sunlight,sunburn
+The leaves look burned from too much sun,sunburn
+There are bleached spots on the leaves,sunburn
+My plant was damaged after being moved into direct sunlight,sunburn
+The leaves have dry brown patches where sunlight hits them,sunburn
+Too much strong sunlight is burning the leaves,sunburn
+The plant has pale bleached areas from intense sun,sunburn
+The leaves became scorched during hot sunny weather,sunburn
+My plant developed brown patches after too much direct sun,sunburn
+The foliage looks burned on the side facing the sun,sunburn
+Strong sunlight is damaging my plant,sunburn
+The leaves have sunburned spots,sunburn
+The plant was fine indoors but burned after being placed outside,sunburn
+The leaves are bleached and dry from excessive sunlight,sunburn
+My plant gets harsh afternoon sunlight and the leaves are burning,sunburn
+There are brown dry patches caused by direct sun,sunburn
+The leaves look scorched after several hours of strong sunlight,sunburn
+My plant was exposed to intense sunlight and got damaged,sunburn
+The leaf surface looks burned,sunburn
+The leaves have pale areas that later turned brown,sunburn
+Direct sunlight is too strong for my plant,sunburn
+The plant has heat and sun damage on exposed leaves,sunburn
+The leaves are developing brown patches after sunny days,sunburn
+My plant looks burned by the sun,sunburn
+There are crispy brown spots where the sun hits the leaves,sunburn
+The plant was placed in full sun and now the leaves are damaged,sunburn
+Excessive sunlight has bleached the foliage,sunburn
+The leaves are scorched after exposure to strong sunlight,sunburn
+My plant cannot handle the intense direct sun,sunburn
+The sunny side of the plant has brown burned patches,sunburn
+The leaves became damaged after moving closer to the window,sunburn
+My plant has sunburn from strong afternoon light,sunburn
+The foliage has bleached patches from too much light,sunburn
+The leaves are burned because of excessive direct sunlight,sunburn
+Strong sun is causing brown scorched spots,sunburn
+The leaf edges are dry and crispy,low_humidity
+My plant has brown crispy tips because the air is dry,low_humidity
+The room air feels very dry and the leaves are drying at the edges,low_humidity
+The leaves have dry brown tips,low_humidity
+My plant needs more humidity,low_humidity
+The leaf edges are turning brown and crispy,low_humidity
+Dry indoor air is affecting my plant,low_humidity
+The leaves are curling and becoming crispy around the edges,low_humidity
+The plant is near a heater and the air is very dry,low_humidity
+My plant has dry leaf tips despite regular watering,low_humidity
+The edges of the leaves are dry but the soil is not dry,low_humidity
+The air around the plant lacks moisture,low_humidity
+The leaves are becoming crispy due to dry air,low_humidity
+My tropical plant is suffering from low humidity,low_humidity
+The leaf margins are dry and brown,low_humidity
+The room is dry and my plant leaves are curling,low_humidity
+The plant has brown tips even though I water it properly,low_humidity
+The leaves feel dry because of low humidity,low_humidity
+Dry air is causing the foliage to become crispy,low_humidity
+The plant is near an air conditioner and the leaves are drying,low_humidity
+My plant has crispy leaf edges,low_humidity
+The humidity around my plant is very low,low_humidity
+The leaves are drying from the edges inward,low_humidity
+My indoor air is dry and the plant looks stressed,low_humidity
+The leaf tips are brown and brittle,low_humidity
+The plant needs a more humid environment,low_humidity
+The foliage has dry crispy margins,low_humidity
+The soil is moist but the leaf edges are dry,low_humidity
+The leaves are curling because the air is too dry,low_humidity
+My plant suffers during dry winter air,low_humidity
+There are brown tips caused by dry air,low_humidity
+The plant looks dry even though it is watered,low_humidity
+Low humidity may be damaging the leaves,low_humidity
+The air around the plant is too dry,low_humidity
+My leaves have dry edges and brown tips,low_humidity
+My plant started wilting after repotting,transplant_stress
+The leaves are drooping since I moved the plant to a new pot,transplant_stress
+My plant looks weak after being transplanted,transplant_stress
+The plant is stressed after changing pots,transplant_stress
+I recently repotted my plant and now the leaves are drooping,transplant_stress
+My plant is struggling after transplanting,transplant_stress
+The plant stopped growing after I moved it to another pot,transplant_stress
+The leaves started yellowing after repotting,transplant_stress
+My plant looks stressed since I changed the soil,transplant_stress
+The plant became weak after moving it,transplant_stress
+I transplanted the plant recently and it is now wilting,transplant_stress
+The plant is drooping after being moved to a new container,transplant_stress
+My plant has not adjusted after repotting,transplant_stress
+The leaves look weak after transplanting,transplant_stress
+The plant is stressed because its roots were disturbed during repotting,transplant_stress
+My plant looks unhappy after changing pots,transplant_stress
+Growth slowed after I transplanted the plant,transplant_stress
+The plant started drooping after I replaced the soil,transplant_stress
+I moved my plant to a bigger pot and now it looks stressed,transplant_stress
+The leaves became weak after repotting,transplant_stress
+My plant is adjusting poorly to its new pot,transplant_stress
+The plant was healthy before I transplanted it,transplant_stress
+The plant started wilting after I disturbed the roots,transplant_stress
+My plant looks shocked after repotting,transplant_stress
+The leaves are drooping because I recently moved the plant,transplant_stress
+The plant is stressed after being transferred to another container,transplant_stress
+My plant has not recovered since repotting,transplant_stress
+The plant looks weak after a recent transplant,transplant_stress
+I changed the pot and now the plant is struggling,transplant_stress
+My plant became droopy after moving it to fresh soil,transplant_stress
+The plant is experiencing stress after repotting,transplant_stress
+The leaves changed after I transplanted the plant,transplant_stress
+My plant is wilting after changing containers,transplant_stress
+The plant looks shocked after being moved,transplant_stress
+Repotting seems to have stressed my plant,transplant_stress
+Water stays in the pot for a very long time,poor_drainage
+The soil takes too long to dry after watering,poor_drainage
+My pot does not seem to drain properly,poor_drainage
+Water collects at the bottom of the container,poor_drainage
+The soil is compacted and holds too much water,poor_drainage
+There is no drainage hole in my pot,poor_drainage
+The potting soil stays wet for many days,poor_drainage
+Water is trapped in the bottom of the pot,poor_drainage
+My plant container has poor drainage,poor_drainage
+The soil feels dense and does not drain well,poor_drainage
+Water remains around the roots after watering,poor_drainage
+The pot is always heavy with water,poor_drainage
+My plant sits in water because the container drains slowly,poor_drainage
+The soil becomes muddy after watering,poor_drainage
+The drainage holes appear blocked,poor_drainage
+Excess water does not leave the pot,poor_drainage
+The container does not allow water to escape,poor_drainage
+The soil is compact and stays soaked,poor_drainage
+Water pools at the bottom of the planter,poor_drainage
+My pot has drainage problems,poor_drainage
+The soil remains wet because water cannot drain,poor_drainage
+The container has no proper drainage system,poor_drainage
+Water accumulates in the pot after watering,poor_drainage
+The soil is waterlogged because of poor drainage,poor_drainage
+The pot takes days to drain and dry,poor_drainage
+My plant may be suffering because the soil drains poorly,poor_drainage
+The pot does not have enough drainage holes,poor_drainage
+The soil is too dense and holds water,poor_drainage
+Excess water stays around the root area,poor_drainage
+The bottom of the pot remains wet,poor_drainage
+My plant container drains very slowly,poor_drainage
+Water cannot escape properly from the soil,poor_drainage
+The potting mix stays soaked for too long,poor_drainage
+There is standing water inside the planter,poor_drainage
+The plant soil has poor drainage,poor_drainage
+A stem of my plant is broken,physical_damage
+The leaves were torn accidentally,physical_damage
+My plant was damaged when it fell over,physical_damage
+Someone accidentally broke part of the plant,physical_damage
+The stem snapped,physical_damage
+The leaves have physical tears,physical_damage
+My plant was damaged during handling,physical_damage
+A branch broke accidentally,physical_damage
+The plant was knocked over and damaged,physical_damage
+Some leaves were torn,physical_damage
+The stem was bent and broken,physical_damage
+My plant has damage from being moved,physical_damage
+A part of the plant was accidentally crushed,physical_damage
+The leaves are damaged because something hit the plant,physical_damage
+My plant fell and some stems broke,physical_damage
+The plant has visible physical damage,physical_damage
+A branch has snapped off,physical_damage
+The leaves were ripped,physical_damage
+My plant was damaged by an accident,physical_damage
+The stem is broken after the pot fell,physical_damage
+The plant has been physically injured,physical_damage
+Some foliage was torn during transportation,physical_damage
+The leaves have tears from handling,physical_damage
+A stem was accidentally bent too much,physical_damage
+My plant was bumped and damaged,physical_damage
+Part of the plant broke off,physical_damage
+The plant was knocked over by accident,physical_damage
+The leaves are torn but there are no pests,physical_damage
+My plant has broken stems from physical damage,physical_damage
+The foliage was damaged during moving,physical_damage
+The plant was crushed slightly,physical_damage
+A stem broke while I was handling the plant,physical_damage
+The leaves were damaged by physical contact,physical_damage
+My plant has torn leaves from an accident,physical_damage
+The plant suffered mechanical damage,physical_damage
+My plant has stopped growing during winter,dormancy
+The plant is growing very slowly because it is dormant,dormancy
+Growth has paused during the cold season,dormancy
+My plant looks healthy but is not producing new growth,dormancy
+The plant is resting during winter,dormancy
+There is little growth during the colder months,dormancy
+My plant grows much slower in winter,dormancy
+The plant has entered a natural resting period,dormancy
+Growth has temporarily stopped because of the season,dormancy
+My plant is not growing but otherwise looks healthy,dormancy
+The plant is resting and producing fewer leaves,dormancy
+Growth slows down naturally during winter,dormancy
+My plant has reduced growth during the dormant season,dormancy
+The plant is alive but not actively growing,dormancy
+There is no new growth because the plant is dormant,dormancy
+My plant is resting during the colder season,dormancy
+The plant grows less during winter months,dormancy
+Growth has slowed because of seasonal dormancy,dormancy
+My plant looks fine but has stopped growing temporarily,dormancy
+The plant is in a resting phase,dormancy
+There is little activity during the dormant period,dormancy
+My plant is healthy but not growing much in winter,dormancy
+The plant has naturally slowed its growth,dormancy
+The growth pause seems seasonal,dormancy
+My plant is dormant during this time of year,dormancy
+The plant is resting rather than actively growing,dormancy
+New growth has slowed during the winter season,dormancy
+The plant appears healthy despite slow growth,dormancy
+My plant has a seasonal growth slowdown,dormancy
+The plant is temporarily inactive,dormancy
+Growth will likely resume in the active season,dormancy
+The plant has entered a period of reduced growth,dormancy
+My plant is resting and not showing many new leaves,dormancy
+The plant is experiencing normal seasonal dormancy,dormancy
+There is slow growth but no major visible problem,dormancy

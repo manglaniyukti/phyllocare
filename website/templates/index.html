@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>PhylloCare</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='style.css') }}"
+    >
+
+</head>
+
+
+<body>
+
+
+<!-- =========================================================
+     TOP NAVIGATION BAR
+========================================================= -->
+
+<nav class="navbar">
+
+
+    <!-- WEBSITE LOGO -->
+
+    <div class="logo">
+
+       <img
+    src="{{ url_for('static', filename='images/phyllocare_logo.png') }}"
+    alt="PhylloCare Logo"
+    class="logo-image"
+>
+
+    </div>
+
+
+
+    <!-- NAVIGATION LINKS -->
+
+    <div class="nav-links">
+
+        <a href="#home">
+            Home
+        </a>
+
+
+        <a href="#about">
+            About
+        </a>
+
+
+        <a href="#plant-search">
+            Plant Search
+        </a>
+
+
+        <a href="#problem-analysis">
+            Problem Analysis
+        </a>
+
+    </div>
+
+
+</nav>
+
+
+
+<!-- =========================================================
+     HOME / HERO SECTION
+========================================================= -->
+
+<section
+    id="home"
+    class="hero"
+>
+
+
+    <div class="hero-content">
+
+
+        <h1>
+            PHYLLOCARE
+        </h1>
+
+
+        <p class="hero-tagline">
+            Detect <span>•</span> Care <span>•</span> Grow
+        </p>
+
+
+        <p class="hero-description">
+
+            Intelligent plant care, designed to help you understand
+            your plants and make better care decisions.
+
+        </p>
+
+
+        <div class="hero-buttons">
+
+
+            <a
+                href="#plant-search"
+                class="hero-button"
+            >
+                Explore Plants
+            </a>
+
+
+            <a
+                href="#problem-analysis"
+                class="hero-button secondary-button"
+            >
+                Analyze Problem
+            </a>
+
+
+        </div>
+
+
+    </div>
+
+
+</section>
+
+
+
+<!-- =========================================================
+     ABOUT SECTION
+========================================================= -->
+
+<section
+    id="about"
+    class="about-section"
+>
+
+
+    <div class="about-content">
+
+
+        <div class="about-text">
+
+
+            <p class="about-label">
+                ABOUT PHYLLOCARE
+            </p>
+
+
+            <h2>
+                Making Plant Care More Informed and Accessible
+            </h2>
+
+
+            <p>
+
+                PhylloCare brings plant information, care guidance,
+                and problem analysis together in one intelligent platform.
+
+            </p>
+
+
+            <p>
+
+                Explore essential care requirements and growing
+                conditions to better understand your plants.
+
+            </p>
+
+
+        </div>
+
+
+
+        <div class="about-highlight">
+
+
+            <div class="highlight-number">
+                900+
+            </div>
+
+
+            <div class="highlight-text">
+
+                <strong>
+                    Plant Categories
+                </strong>
+
+
+                <span>
+                    Explore information and care guidance across
+                    a wide range of plants.
+                </span>
+
+
+            </div>
+
+
+        </div>
+
+
+    </div>
+
+
+</section>
+
+
+
+<!-- =========================================================
+     PLANT SEARCH SECTION
+========================================================= -->
+
+<section
+    id="plant-search"
+    class="section"
+>
+
+
+    <h2>
+        Discover Your Plant
+    </h2>
+
+
+    <p class="section-description">
+
+        Explore essential care requirements and growing conditions.
+
+    </p>
+
+
+
+    <!-- SEARCH CONTAINER -->
+
+    <div class="search-container">
+
+
+        <!-- AUTOCOMPLETE SEARCH BOX -->
+
+        <div class="autocomplete-container">
+
+
+            <input
+                type="text"
+                id="plantInput"
+                placeholder="Start typing a plant name..."
+                autocomplete="off"
+            >
+
+
+            <!-- SUGGESTION DROPDOWN -->
+
+            <div
+                id="suggestions"
+                class="suggestions"
+            ></div>
+
+
+        </div>
+
+
+
+        <!-- SEARCH BUTTON -->
+
+        <button id="searchButton">
+            Search Plant
+        </button>
+
+
+    </div>
+
+
+
+    <!-- SEARCH STATUS MESSAGE -->
+
+    <div
+        id="searchStatus"
+        class="status-message"
+    ></div>
+
+
+
+    <!-- PLANT INFORMATION RESULTS -->
+
+    <div
+        id="plantResults"
+        class="plant-results"
+    ></div>
+
+
+</section>
+
+
+
+<!-- =========================================================
+     PLANT PROBLEM ANALYSIS SECTION
+========================================================= -->
+
+<section
+    id="problem-analysis"
+    class="section problem-section"
+>
+
+
+    <h2>
+        Plant Problem Analysis
+    </h2>
+
+
+    <p class="section-description">
+
+        Describe your plant's condition to identify possible problems.
+
+    </p>
+
+
+
+    <!-- PROBLEM INPUT AREA -->
+
+    <div class="problem-container">
+
+
+        <textarea
+            id="problemInput"
+            placeholder="Example: My plant leaves are turning yellow and the soil is always wet..."
+            rows="6"
+        ></textarea>
+
+
+
+        <!-- ANALYZE BUTTON -->
+
+        <button id="analyzeButton">
+            Analyze Problem
+        </button>
+
+
+    </div>
+
+
+
+    <!-- ANALYSIS STATUS MESSAGE -->
+
+    <div
+        id="analysisStatus"
+        class="status-message"
+    ></div>
+
+
+
+    <!-- PROBLEM ANALYSIS RESULT -->
+
+    <div
+        id="problemResult"
+        class="problem-result"
+    ></div>
+
+
+</section>
+
+
+
+<!-- =========================================================
+     FOOTER
+========================================================= -->
+
+<!-- FOOTER -->
+
+<footer>
+
+    <!-- FOOTER LOGO -->
+
+    <div class="footer-logo">
+
+        <img
+            src="{{ url_for('static', filename='images/phyllocare_logo.png') }}"
+            alt="PhylloCare Logo"
+            class="footer-logo-image"
+        >
+
+    </div>
+
+
+    <p>
+        Smart plant care powered by data and machine learning.
+    </p>
+
+
+</footer>
+
+<!-- =========================================================
+     JAVASCRIPT
+========================================================= -->
+
+<script
+    src="{{ url_for('static', filename='script.js') }}"
+></script>
+
+
+</body>
+
+</html>
